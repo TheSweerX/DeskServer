@@ -8,5 +8,11 @@
 
 <button type="submit" formmethod="post" formaction="/desk/down" class="button button3">Desk Down</button>
 </form>
-<a>Led Status: <%=status %></a>
+
+<form action="/windows/calc" method="post">
+    <button type="submit" class="button">Start calculator</button>
+    
+    <button type="submit" formmethod="post" formaction="/windows/notepad" class="button button3">Start Notepad</button>
+    </form>
+<a>Status: <%=status %></a>
 </div>
