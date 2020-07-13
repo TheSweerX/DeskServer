@@ -81,7 +81,7 @@
       "resolved": "https://registry.npmjs.org/ee-first/-/ee-first-1.1.1.tgz",
       "version": "1.1.1"
     },
-    "ejs": "^2.6.1",
+    "ejs": "^2.7.4",
     "encodeurl": {
       "integrity": "sha1-rT/0yG7C0CkyL1oCw6mmBslbP1k=",
       "resolved": "https://registry.npmjs.org/encodeurl/-/encodeurl-1.0.2.tgz",
@@ -97,7 +97,7 @@
       "resolved": "https://registry.npmjs.org/etag/-/etag-1.8.1.tgz",
       "version": "1.8.1"
     },
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "finalhandler": {
       "integrity": "sha512-Y1GUDo39ez4aHAw7MysnUD5JzYX+WaIj8I57kO3aEPT1fFRL4sr7mjei97FgnwhAyyzRYmQZaTHb2+9uZ1dPtg==",
       "requires": {
@@ -294,6 +294,7 @@
       "resolved": "https://registry.npmjs.org/statuses/-/statuses-1.4.0.tgz",
       "version": "1.4.0"
     },
+    "tasks": "0.0.3",
     "type-is": {
       "integrity": "sha512-HRkVv/5qY2G6I8iab9cI7v1bOIdhm94dVjQCPFElW9W+3GeDOSHmy2EBYe4VTApuzolPcmgFTN3ftVJRKR2J9Q==",
       "requires": {
